@@ -1,0 +1,12 @@
+.container {
+  display: inline-block;
+  height: auto;
+  width: auto;
+  padding: 50px;
+  background-color: hsl(0, 44%, 72%);
+  text-align: center;
+  margin: 200px;
+}
+#colorText{
+  margin: 0;
+}
